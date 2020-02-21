@@ -4,10 +4,21 @@ import logging
 from datetime import datetime
 import json
 from flask import request
+import csv
 
 app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///test.db'
 db = SQLAlchemy(app)
+
+def logHeaders(headers):
+    print(sorted(request.headers.keys()))
+    with open("logs.csv", "a") as csvfile:
+        csvWriter = csv.writer(csvfile)
+        headerData = []
+        headerData.append(datetime.now())
+        for key in sorted(request.headers.keys()):
+            headerData.append(request.headers[key])
+        csvWriter.writerow(headerData)
 
 class animal (db.Model):
      id = db.Column(db.Integer, primary_key = True)
@@ -16,38 +27,36 @@ class animal (db.Model):
 @app.route('/', methods=['POST', 'GET'])
 def index():
     print("ran_index")
-    print(sorted(request.headers.keys()))
-    with open("logs2.csv", "a") as csvfile:
-        csvWriter = csv.writer(csvfile)
-        headerData = []
-        headerData.append(datetime.now())
-        for key in sorted(request.headers.keys()):
-            headerData.append(request.headers[key])
-        csvWriter.writerow(headerData)
     return render_template('index.html')
 
 @app.route('/img/kitten1.JPG', methods=['POST', 'GET'])
 def kitten1():
+    logHeaders(request.headers)
     return render_template('cat.html')
 
 @app.route('/img/kitten2.JPG', methods=['POST', 'GET'])
 def kitten2():
+    logHeaders(request.headers)
     return render_template('cat.html')
 
 @app.route('/img/kitten3.JPG', methods=['POST', 'GET'])
 def kitten3():
+    logHeaders(request.headers)
     return render_template('cat.html')
 
 @app.route('/img/puppy1.JPG', methods=['POST', 'GET'])
 def puppy1():
+    logHeaders(request.headers)
     return render_template('dog.html')
 
 @app.route('/img/puppy2.jpeg', methods=['POST', 'GET'])
 def puppy2():
+    logHeaders(request.headers)
     return render_template('dog.html')
 
 @app.route('/img/puppy3.jpg', methods=['POST', 'GET'])
 def puppy3():
+    logHeaders(request.headers)
     return render_template('dog.html')
 
 
