@@ -1,0 +1,105 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <title> Kitties And Pups </title>
+    {% endblock %}
+
+{% block body %}
+      <nav>
+        <div class="nav-wrapper">
+          <a href="#" class="brand-logo left" style="padding-left: 10px;">CSC 325 Project 1</a>
+          <ul id="nav-mobile" class="right hide-on-med-and-down">
+          </ul>
+        </div>
+      </nav>
+      <div class="parallax-container" style="height: 150px;">
+            <div class="parallax"><img src="{{url_for('static',filename='background.jpg')}}"></div>
+          </div>
+<div class = "content">
+        
+    <h2 style="text-align: center;"> Cats </h2>
+    <div class="row">
+            <div class="col offset-l1 s4 m3 l3">
+              <div class="large card" >
+                <div class="card-image">
+                    <a href="/img/kitten1.JPG">
+                  <img src="{{url_for('static',filename='kitten1.JPG')}}">
+                    </a>
+                </div>
+                <div class="card-content">
+                  <p>Hi, my name is Baba Saaein, and Shinza is holding me.</p>
+                </div>
+              </div>
+            </div>
+            <div class="col s3 m3 l3">
+                    <div class="large card">
+                      <div class="card-image">
+                            <a href="/img/kitten2.JPG">
+                                <img src="{{url_for('static',filename='kitten2.JPG')}}">
+                            </a>
+                      </div>
+                      <div class="card-content">
+                        <p>Hi, my name is Flakey, and I live in Karachi. I'm actually Bihter and Baba Saaein's dad.</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col s3 m3 l3">
+                        <div class="large card">
+                          <div class="card-image">
+                                <a href="/img/kitten3.JPG">
+                                    <img src="{{url_for('static',filename='kitten3.JPG')}}">
+                                </a>
+                          </div>
+                          <div class="card-content">
+                            <p>Hi, my name is Bihter, and I know we don't look alike but Baba Saaein is actually my brother.</p>
+                          </div>
+                        </div>
+                      </div>
+          </div>        
+          <div class="parallax-container"  style="height: 200px;">
+                <div class="parallax"><img src="{{url_for('static',filename='background.jpg')}}" ></div>
+          </div>
+          <h2 style="text-align: center;"> Dogs </h2>
+          <div class="row">
+                  <div class="col offset-l1 s3 m3 l3">
+                    <div class="large card" >
+                      <div class="card-image">
+                          <a href="/img/puppy1.JPG">
+                                <img src="{{url_for('static',filename='puppy1.JPG')}}">
+                          </a>
+                      </div>
+                      <div class="card-content">
+                        <p>Hi, my name is Frankie, and I'm a Border Collie. I'm so excited to turn 2 next month.</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col s3 m3 l3">
+                          <div class="large card">
+                            <div class="card-image">
+                                <a href="/img/puppy2.jpeg">
+                                    <img src="{{url_for('static',filename='puppy2.jpeg')}}">
+                                </a>
+                            </div>
+                            <div class="card-content">
+                              <p>Hi, my name is Bella, and I'm a Belgian Sheperd. Just like Baba Saaein, I live in Karachi too.</p>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col s3 m3 l3">
+                              <div class="large card">
+                                <div class="card-image">
+                                    <a href="/img/puppy3.jpg">
+                                        <img src="{{url_for('static',filename='puppy3.jpg')}}">
+                                    </a>
+                                </div>
+                                <div class="card-content">
+                                  <p>Hi, my name is Conan, and I'm a French Mastiff. I live in Virginia.</p>
+                                </div>
+                              </div>
+                            </div>
+                </div>        
+</div>
+
+{% endblock %}
+

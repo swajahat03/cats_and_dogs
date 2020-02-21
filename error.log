@@ -1,0 +1,32 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 287-669-036
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2020 12:31:18] "[37mGET /img/kitten1.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2020 12:31:18] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2020 12:31:19] "[37mGET /img/kitten2.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2020 12:31:20] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2020 12:31:21] "[37mGET /img/kitten3.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2020 12:31:22] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/Users/salmanwajahat/CSC307/flaskintro/app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 287-669-036
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2020 12:35:02] "[37mGET /img/kitten2.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2020 12:35:03] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2020 12:35:03] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2020 12:35:03] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2020 12:35:03] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2020 12:35:03] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2020 12:35:03] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2020 12:35:03] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/Users/salmanwajahat/CSC307/flaskintro/app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 287-669-036
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2020 12:38:39] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2020 12:38:40] "[37mGET /img/kitten2.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2020 12:38:42] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2020 12:38:42] "[37mGET /img/kitten1.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2020 12:38:43] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2020 12:38:44] "[37mGET /img/kitten1.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Feb/2020 12:38:45] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/Users/salmanwajahat/CSC307/flaskintro/app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 287-669-036

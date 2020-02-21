@@ -1,0 +1,309 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 287-669-036
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 19:55:04] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 19:55:05] "[37mGET /img/kitten1.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 19:55:06] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 19:55:07] "[37mGET /img/kitten2.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 287-669-036
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 19:58:51] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.41 - - [11/Feb/2020 19:59:00] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.41 - - [11/Feb/2020 19:59:00] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.41 - - [11/Feb/2020 19:59:00] "[37mGET /static/kitten1.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.41 - - [11/Feb/2020 19:59:00] "[37mGET /static/kitten3.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.41 - - [11/Feb/2020 19:59:00] "[37mGET /static/kitten2.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.41 - - [11/Feb/2020 19:59:00] "[37mGET /static/puppy1.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.41 - - [11/Feb/2020 19:59:00] "[37mGET /static/puppy2.jpeg HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.41 - - [11/Feb/2020 19:59:00] "[37mGET /static/puppy3.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:192.168.1.41 - - [11/Feb/2020 19:59:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/Users/salmanwajahat/CSC307/flaskintro/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 287-669-036
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 287-669-036
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 19:59:56] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 19:59:56] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 19:59:56] "[37mGET /static/kitten1.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 19:59:56] "[37mGET /static/kitten2.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 19:59:56] "[37mGET /static/kitten3.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 19:59:56] "[37mGET /static/puppy1.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 19:59:56] "[37mGET /static/puppy2.jpeg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 19:59:56] "[37mGET /static/puppy3.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 19:59:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 287-669-036
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:01:19] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:01:19] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:01:19] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:01:20] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 287-669-036
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:06:09] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:06:33] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:11:53] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:11:54] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:11:54] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:12:09] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:12:09] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:12:10] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:12:10] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:12:10] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:12:10] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:12:11] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:12:32] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:12:49] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:13:04] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:13:04] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:13:05] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:13:32] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:13:42] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:14:07] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:14:08] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:14:08] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:14:09] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:15:18] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:15:18] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:15:18] "[37mGET /static/kitten1.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:15:18] "[37mGET /static/kitten3.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:15:18] "[37mGET /static/kitten2.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:15:18] "[37mGET /static/puppy1.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:15:18] "[37mGET /static/puppy2.jpeg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:15:18] "[37mGET /static/puppy3.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:15:43] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:15:52] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:15:52] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:15:52] "[37mGET /static/kitten1.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:15:52] "[37mGET /static/kitten2.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:15:52] "[37mGET /static/kitten3.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:15:52] "[37mGET /static/puppy1.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:15:52] "[37mGET /static/puppy2.jpeg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:15:52] "[37mGET /static/puppy3.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:15:53] "[37mGET /img/kitten2.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:15:53] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:15:55] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:15:55] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:15:55] "[37mGET /static/kitten2.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:15:55] "[37mGET /static/kitten3.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:15:55] "[37mGET /static/puppy1.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:15:55] "[37mGET /static/puppy2.jpeg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:15:55] "[37mGET /static/kitten1.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:15:55] "[37mGET /static/puppy3.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:17:19] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:17:30] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:17:31] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:17:31] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:17:32] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 20:17:49] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 22:05:42] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 22:05:43] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 22:05:44] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 287-669-036
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 22:28:27] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 287-669-036
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 22:29:53] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 22:30:38] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 22:30:40] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 22:30:40] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 22:30:40] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 22:30:40] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 287-669-036
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 22:31:01] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 22:31:02] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 22:31:19] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/Users/salmanwajahat/CSC307/flaskintro/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 287-669-036
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 287-669-036
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 22:32:24] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 22:32:25] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 22:32:25] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 22:32:30] "[37mGET /img/puppy2.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 22:32:32] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 22:32:36] "[37mGET /img/puppy1.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 22:32:40] "[37mGET /img/kitten1.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 22:33:34] "[37mGET /img/kitten1.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 22:33:40] "[37mGET /img/puppy1.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 22:35:58] "[37mGET /img/puppy1.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 22:36:28] "[37mGET /img/puppy1.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 22:36:29] "[37mGET /img/puppy1.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 22:36:29] "[37mGET /img/puppy1.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 22:37:44] "[37mGET /img/puppy1.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 22:37:48] "[37mGET /img/kitten1.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 22:38:43] "[37mGET /img/kitten1.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 22:38:55] "[37mGET /img/kitten1.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 22:38:56] "[37mGET /img/kitten1.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 22:39:10] "[37mGET /img/kitten1.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 22:39:13] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 22:39:15] "[37mGET /img/puppy2.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2020 22:39:30] "[37mGET /img/puppy2.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 287-669-036
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 09:09:16] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 09:09:17] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 09:09:17] "[36mGET /static/kitten2.JPG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 09:09:17] "[36mGET /static/kitten1.JPG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 09:09:17] "[33mGET /static/puppy2.jpeg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 09:09:17] "[36mGET /static/kitten3.JPG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 09:09:17] "[36mGET /static/puppy1.JPG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 09:09:17] "[36mGET /static/puppy3.JPG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 09:13:43] "[37mGET /img/kitten1.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 09:13:47] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 09:13:47] "[33mGET /static/puppy2.jpeg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 09:13:54] "[37mGET /img/puppy2.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 09:14:03] "[37mGET /img/puppy1.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 09:14:07] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 09:14:07] "[33mGET /static/puppy2.jpeg HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 287-669-036
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 09:17:05] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 09:17:05] "[33mGET /static/puppy2.jpeg HTTP/1.1[0m" 404 -
+INFO:werkzeug:10.144.115.200 - - [12/Feb/2020 09:18:02] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 09:18:09] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 09:18:09] "[33mGET /static/puppy2.jpeg HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 287-669-036
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 09:18:26] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 09:18:26] "[33mGET /static/puppy2.jpeg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 09:18:27] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 09:18:27] "[33mGET /static/puppy2.jpeg HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 287-669-036
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 09:19:26] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 09:19:26] "[37mGET /static/puppy2.jpeg HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 287-669-036
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 12:28:29] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 12:28:29] "[37mGET /static/background.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 12:30:19] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 12:30:20] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 12:31:37] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 12:31:38] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 12:31:38] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 12:31:38] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 12:31:38] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 12:32:16] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 12:34:36] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 12:36:01] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 12:36:51] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 12:40:25] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 12:40:26] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 12:41:20] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 12:41:21] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 12:41:21] "[37mGET /static/kitten1.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 12:41:21] "[37mGET /static/background.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 12:41:21] "[37mGET /static/kitten2.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 12:41:21] "[37mGET /static/kitten3.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 12:41:21] "[37mGET /static/puppy1.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 12:41:21] "[37mGET /static/puppy2.jpeg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 12:41:21] "[37mGET /static/puppy3.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 12:42:13] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 12:42:20] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 12:42:40] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2020 12:43:12] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:10.144.57.27 - - [12/Feb/2020 13:04:54] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:10.144.57.27 - - [12/Feb/2020 13:04:54] "[33mGET /HNAP1/ HTTP/1.1[0m" 404 -
+INFO:werkzeug:10.144.96.131 - - [12/Feb/2020 13:13:01] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:10.144.142.77 - - [12/Feb/2020 13:27:01] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 287-669-036
+INFO:werkzeug:127.0.0.1 - - [13/Feb/2020 20:29:31] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Feb/2020 20:29:31] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Feb/2020 20:29:31] "[36mGET /static/background.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Feb/2020 20:29:31] "[36mGET /static/kitten1.JPG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Feb/2020 20:29:32] "[36mGET /static/kitten2.JPG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Feb/2020 20:29:32] "[36mGET /static/kitten3.JPG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Feb/2020 20:29:32] "[36mGET /static/puppy1.JPG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Feb/2020 20:29:32] "[36mGET /static/puppy3.JPG HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Feb/2020 20:29:32] "[36mGET /static/puppy2.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Feb/2020 20:30:21] "[37mGET /img/kitten1.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Feb/2020 20:30:54] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 287-669-036
+INFO:werkzeug:127.0.0.1 - - [19/Feb/2020 15:36:28] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Feb/2020 15:36:28] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Feb/2020 15:36:28] "[37mGET /static/background.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Feb/2020 15:36:28] "[37mGET /static/kitten1.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Feb/2020 15:36:28] "[37mGET /static/kitten2.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Feb/2020 15:36:28] "[37mGET /static/kitten3.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Feb/2020 15:36:28] "[37mGET /static/puppy1.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Feb/2020 15:36:28] "[37mGET /static/puppy2.jpeg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Feb/2020 15:36:28] "[37mGET /static/puppy3.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Feb/2020 15:36:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [19/Feb/2020 15:36:31] "[37mGET /img/kitten3.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Feb/2020 15:36:39] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Feb/2020 15:36:40] "[37mGET /img/kitten2.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Feb/2020 15:36:41] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Feb/2020 15:36:42] "[37mGET /img/kitten1.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Feb/2020 15:36:43] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Feb/2020 15:36:44] "[33mGET /img/puppy2.jpeg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [19/Feb/2020 15:36:48] "[37mGET /img/puppy3.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Feb/2020 15:36:49] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Feb/2020 15:36:51] "[37mGET /img/puppy1.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 287-669-036
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 287-669-036
+INFO:werkzeug:127.0.0.1 - - [19/Feb/2020 15:44:50] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Feb/2020 15:44:52] "[37mGET /img/kitten2.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Feb/2020 15:44:53] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Feb/2020 15:44:54] "[37mGET /img/kitten3.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Feb/2020 15:44:54] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Feb/2020 15:44:57] "[37mGET /img/puppy2.jpeg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Feb/2020 15:44:57] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Feb/2020 15:44:58] "[37mGET /img/kitten3.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Feb/2020 15:44:59] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 287-669-036
+INFO:werkzeug:127.0.0.1 - - [19/Feb/2020 15:47:33] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Feb/2020 15:47:34] "[37mGET /img/kitten1.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Feb/2020 15:47:35] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Feb/2020 15:47:36] "[37mGET /img/kitten2.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Feb/2020 15:47:36] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Feb/2020 15:47:37] "[37mGET /img/kitten3.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Feb/2020 15:47:38] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Feb/2020 15:47:39] "[37mGET /img/puppy3.JPG HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Feb/2020 15:47:40] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/Users/salmanwajahat/CSC307/flaskintro/app.py', reloading
+INFO:werkzeug: * Restarting with stat
