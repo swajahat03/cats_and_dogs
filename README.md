@@ -2,52 +2,41 @@
 
 [![Build Status](https://travis-ci.org/sindresorhus/pageres.svg?branch=master)](https://travis-ci.org/sindresorhus/pageres)  [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/CSC307Fall2019/Group-3)
 
-Easy Quiz is a web application built to be used by an elementary school teacher where he/she can build quizzes, assign those quizzes to classes, and view the grades for the classes that they're teaching. This webapp also allows students to take quizzes and get graded. 
+The webapp keeps track of all visitors, and also provides an analysis of their preferences of dogs or cats in the form of a spreadsheet.
 
 ## Installation
 
 1) Clone the source locally
 ```sh
-$ git clone https://github.com/CSC307Fall2019/Group-3
+$ git clone https://github.com/swajahat03/cats_and_dogs
 ```
-Once you have cloned the git repository locally, you would want to open two terminal tabs and navigate to the cloned repo in both these windows. 
+Once you have cloned the git repository locally, you would want to open a terminal tab and navigate to the cloned repo.
 
-2) In the first window, navigate to the api folder.
+2) In the first window, navigate to the env folder.
 ```sh
-$ cd api/
+$ cd env/
 ```
-  For the second window, navigate to the webapp folder.
+3) Now that you've navigated to the desired folders. Run the following command in the window to select your source for the webapp setup.
 ```sh
-$ cd webapp/
+$ source bin/activate
 ```
-3) Now that you've navigated to the desired folders. Run the following command in both the windows to complete the webapp setup.
+4) Next you'll run the command to cloned repo by running the following command:
 ```sh
-$ npm install
+$ cd ..
 ```
-4) Next you'll run the api and webapp by running the webapp and api by running the following command:
-```sh
-$ npm run serve
-```
-This should have Easy Quiz up and running. 
+This should have Cats And Dogs set up. 
 
-5) To run the tests
+5) To run the app, enter the command:
 ```sh
-$ npm run test
+$ python app.py
 ```
-6) Required existing data 
+6) Now go onto a web browser and go to the address 0.0.0.0
 ```sh
-*** Teacher ***
-For the website to be used there has to be an existing entry in the "user" table 
-of a teacher (a user who's IS_STUDENT is 0)
+$ This will show
 ```
 
 ## Testing 
-For testing purposes, the following credentials are assumed:
-```sh
-*** Teacher ***
-username: teacher@t.edu
-password: teacher
-*** Student ***
-username: student@eazyquiz.edu
-password: student
+For testing purposes, check logs.csv:
+```
+logs.csv fetches metadata of all visitors to Cats And Dogs. 
 ```
