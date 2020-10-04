@@ -1,4 +1,4 @@
-# Easy Quiz
+# Cats And Dogs
 
 [![Build Status](https://travis-ci.org/sindresorhus/pageres.svg?branch=master)](https://travis-ci.org/sindresorhus/pageres)  [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/CSC307Fall2019/Group-3)
 
