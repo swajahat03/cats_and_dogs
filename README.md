@@ -32,7 +32,7 @@ $ python app.py
 ```
 6) Now go onto a web browser and go to the address 0.0.0.0
 ```sh
-$ This will show
+$ This will display our webapp in your browser.
 ```
 
 ## Testing 
