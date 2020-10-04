@@ -2,11 +2,6 @@
 
 [![Build Status](https://travis-ci.org/sindresorhus/pageres.svg?branch=master)](https://travis-ci.org/sindresorhus/pageres)  [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/CSC307Fall2019/Group-3)
 
-<h1 align="center">
-  <br>
-  <img src="https://github.com/CSC307Fall2019/Group-3/blob/master/docs/screenshot.png" alt="Easy Quiz" width="960">
-</h1>
-
 Easy Quiz is a web application built to be used by an elementary school teacher where he/she can build quizzes, assign those quizzes to classes, and view the grades for the classes that they're teaching. This webapp also allows students to take quizzes and get graded. 
 
 ## Installation
